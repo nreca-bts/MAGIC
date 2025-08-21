@@ -1,8 +1,5 @@
 # Motivation
-*Required - Replace this text with an explanation of the value and reason for implementing this change.*
-
+- This commit contains the initial working state of the files for the project
 # Modifications
-- *Required - Replace this text with a bulleted list of the each specific change being made.*
-
-# Notes 
-*Optional - Replace this text with any special considerations or explanations that would be helpful to a reviewer. **Remove if unnecessary***
+- README.md: added sections to README.md describing the files included in the project 
+- .gitignore: added additional development files that should not be included in the user-facing tool
